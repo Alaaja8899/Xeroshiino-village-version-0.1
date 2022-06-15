@@ -234,7 +234,7 @@ class helicopter:
 	def move_helicopter(self):
 		self.x +=3
 		if self.x == 3000:
-			self.x = 100
+			self.x = -100
 		if self.x >= 0 and self.x <ballaca_shaashada:
 			helicop_sound.play()
 diyaarad = helicopter(0,dhirirka_shaashada-300-200)
