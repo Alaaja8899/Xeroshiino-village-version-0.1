@@ -4,7 +4,7 @@ GAME : Xeroshiino village
 
 """
 Aouthor : ABDIRIZAK ABDULLAHI HUSEEIN
-DATE : 6/7/2022 
+DATE : 6/14/2022 
 INSTEGRAM : Abdirizak_8899
 GITHUB : github.com/AbdirizaK8899
 					
